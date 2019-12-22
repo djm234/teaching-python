@@ -8,8 +8,8 @@ to install Python. There are several resources online that explain how to do thi
 for your operating system. Once installed, you will need to install the packages
 listed in `requirements.txt`.
 
-## Part 1 - Introduction to Python
+## [Part 1 - Introduction to Python](Part 1 - Introduction.ipynb)
 This section introduces Python and some basic concepts.
 
-## Part 2 - Working with Files
+## [Part 2 - Working with Files](Part 2 - Working With Files.ipynb)
 This section explains how to open and save files, enabling you work with data.
